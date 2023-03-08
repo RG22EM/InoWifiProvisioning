@@ -13,7 +13,8 @@ InoWifiProvisioning	KEYWORD1
 # Methods and Functions (KEYWORD2)
 #######################################
 
-InoWifiProvisioning KEYWORD2
+initProvisioningServer KEYWORD2
+handleProvisioningServer KEYWORD2
 #######################################
 # Constants (LITERAL1)
 #######################################
